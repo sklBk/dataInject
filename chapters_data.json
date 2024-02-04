@@ -1,0 +1,3606 @@
+{
+    "chapters": {
+        "4": {
+            "Maths": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Building With Bricks"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Long And Short"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Tick Tick Tick"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "A Trip To Bhopal"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "The Way The World Looks"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Junk Seller"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Jugs And Mugs"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Carts And Wheels"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Halves And Quarters"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Play With Patterns"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Tables And Shares"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "How Heavy? How Light?"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Fields And Fences"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Smart Charts"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Many Objects - Different Shapes"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Different Views Different Sides"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Some More Shapes"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Knowing Numbers"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "How Much More How Much Less"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "How Many Times"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Equal Shares And Equal Groups"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "How Long Is This?"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "How Much Does It Weigh"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "How Much Do These Bottles Hold"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "Tick-Tock Goes The Clock"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Divind Into Equal Parts"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Smart Tables"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Borders And Boundaries"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "Halves That Look Like"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 16,
+                    "chapter_name": "Patterns"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 17,
+                    "chapter_name": "Maths Around Us"
+                }
+            ],
+            "Science": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Going To School"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Ear To Ear"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "A Day With Nandu"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "The Story Of Amrita"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Anita And The Honeybees"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Omana\u2019S Journey"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "From The Window"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Reaching Grand Mother\u2019S House"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Changing Families"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Hu Tu Tu Hu Tu Tu"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Valley Of Flowers"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "Changing Times"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "A River\u2019S Tale"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Basva\u2019S Farm"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "From Market To Home"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 16,
+                    "chapter_name": "A Busy Month"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 17,
+                    "chapter_name": "Nandita In Mumbai"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 18,
+                    "chapter_name": "Too Much Water Too Little Water"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 19,
+                    "chapter_name": "Abdul In The Garden"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 20,
+                    "chapter_name": "Eating  Together"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 21,
+                    "chapter_name": "Food And Fun"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 22,
+                    "chapter_name": "A World In My Home"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 23,
+                    "chapter_name": "Pochampalli"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 24,
+                    "chapter_name": "Home And Abroad"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 25,
+                    "chapter_name": "Spicy Riddles"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 26,
+                    "chapter_name": "Defence Officer: Wahida"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 27,
+                    "chapter_name": "Chuskit Goes To School"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Changing Families"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Different Kind Of Games"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Various Types Of Animals"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "The Lifestyles Of Animals -Bio Diversity"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Plants Around Us"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Find The Way/Directions"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Public Institutions"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Houses-Construction Sanitation"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Our Village-Our Tanks"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Our Food - Our Health"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "From Village To Delhi"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Indian History And Culture"
+                }
+            ]
+        },
+        "5": {
+            "Maths": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "The Fish Tale"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Shapes And Angles"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "How Many Squares?"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Parts And Wholes"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Does It Look The Same?"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Be My Multiple, I\u2019Ll Be Your Factor"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Can You See The Pattern?"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Mapping Your Way"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Boxes And Sketches"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Tenths And Hundredths"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Area And Its Boundary"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "Smart Charts"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Ways To Multiply And Divide"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "How Big? How Heavy?"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Bigger Numbers"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Multiply And Divide"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Smart Charts"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Smaller Lengths - Bigger Lengths"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Spaces And Boundaries"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Space And Boudaries-2"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Angles In Our Surroundings"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Playing With Shapes"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Routes And Maps"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "How Much Does It Weigh"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "Many More Litres"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Time"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Fractions"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Factors And Multiples"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "Symmetry"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 16,
+                    "chapter_name": "Patterns"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 17,
+                    "chapter_name": "Trip To The Golkonda Fort "
+                }
+            ],
+            "Science": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Super Senses"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "A Snake Charmer\u2019S Story"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "From Tasting To Digesting"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Mangoes Round The Year"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Seeds And Seed"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Every Drop Counts"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Experiments With Water"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "A Treat For Mosquitoes"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Up You Go"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Wall Tell Stories"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Sunita In Space"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "What If It Finishes....?"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "A Shelter So High!"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "When The Earth Shook!"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Blow Hot Blow Cold"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 16,
+                    "chapter_name": "Who Will Do The Work?"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 17,
+                    "chapter_name": "Across The Wall"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 18,
+                    "chapter_name": "No Place For Us"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 19,
+                    "chapter_name": "A Seed Tells A Farmer\u2019S Story"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 20,
+                    "chapter_name": "Whose Forests?"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 21,
+                    "chapter_name": "Like Father,\nLike Daughter"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 22,
+                    "chapter_name": "On The Move Again"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Animals: The Base Of Life"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Agriculture-Crops"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Lets Plant Tress"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Food We Eat"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Our Body Parts- Sense Organs"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Our Body- Its Internal Organs"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Forests-Tribals"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Rivers- Means Of Livelihood"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Atmosphere-Wind"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "The Sun And The Planets"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "Safety And First Aid"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Historical Sites-Wanaparti Fort"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Energy"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Our Country-World"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "Our Consitution"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 16,
+                    "chapter_name": "Child Rights"
+                }
+            ]
+        },
+        "6": {
+            "Maths": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Knowing Our Numbers"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Whole Numbers"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Playing With Numbers"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Basic Geometrical Idea"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Understanding Elementary Shapes"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Integers"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Fractions"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Decimals"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Data Handling"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Mensuration"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Algebra"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "Ratios And Proportions"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Symmetry"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Practical Geometry"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Knowing Our Numbers"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Whole Numbers"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Playing With Numbers"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Basic Geometrical Idea"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Understanding Elementary Shapes"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Integers"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Fractions"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Data Handling"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Algebra"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Mensuration"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "Ratios And Proportions"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Symmetry"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Practical Geometry"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "3D & 2D Shapes"
+                }
+            ],
+            "Science": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Food : Where Does It Come From?"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Components Of Food"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Fibre To Fabric"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Sorting Materials To Groups"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Separation Of Substances"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Changes Around Us"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Getting To Know Plants"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Body Movements"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "The Living Organisms Characteristics And Habits"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Motion And Measurement Of Distances"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Light,Shadows And Reflections"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "Electricity And Circuits"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Fun With Magnets"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Water"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Air Around Us"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 16,
+                    "chapter_name": "Garbage In, Garbage Out"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Our Food"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Playing With Magnets"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Rain: Where Does It Come From?"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "What Do Animals Eat?"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Materials And Things"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Habitat"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Separation Of Substances"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Fibre To Fabric"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Plants:Parts And Functions"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Changes Around Us"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "Water In Our Life"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Simple Electric Circuits"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Learning  How To Measure"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Movements In Animals"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "Light, Shadows And Images"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 16,
+                    "chapter_name": "Living And Non Living"
+                }
+            ],
+            "Social": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "The Earth In The Solar System"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Globe Latitudes And Longitudes"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Motions Of The Earth"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Maps"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Major Domains Of The Earth"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Major Landforms Of The Earth"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Our Country India"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "India Climate Vegetation And Wildlife"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "What, Where, How And When?"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "From Gathering To Growing Food"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "In The Earliest Cities"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "What Books And Burials Tell Us"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Kingdoms, Kings And An Early Republic"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "New Questions And Ideas"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Ashoka, The Emperor Who Gave Up War"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 16,
+                    "chapter_name": "Vital Villages, Thriving Towns"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 17,
+                    "chapter_name": "Traders, Kings And Pilgrims"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 18,
+                    "chapter_name": "New Empires And Kingdoms"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 19,
+                    "chapter_name": "Buildings, Paintings, And Books"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 20,
+                    "chapter_name": "Understanding Diversity"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 21,
+                    "chapter_name": "Diversity And Discrimination"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 22,
+                    "chapter_name": "What Is Government"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 23,
+                    "chapter_name": "Key Elements Of A Democratic Government"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 24,
+                    "chapter_name": "Panchayati Raj"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 25,
+                    "chapter_name": "Rural Administration"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 26,
+                    "chapter_name": "Urban Administration"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 27,
+                    "chapter_name": "Rural Livelihoods"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 28,
+                    "chapter_name": "Urban Livelihoods"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Reading And Making Maps"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Globe \u2013 A Model Of The Earth"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Land Forms"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Dokur \u2013 A Village On The Plateau"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Penugolu \u2013 A Village On The Hills"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "From Gathering Food To Growing Food - The Earliest People"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Agriculture In Our Times"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Trade In Agricultural Produce \u2013 Part-A"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Community Decision Making In A Tribe"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Emergence Of Kingdoms And Republics"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "First Empires "
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Democratic Government"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Village Panchayats"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Local Self \u2013 Government In Urban Areas"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "Diversity In Our Society"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 16,
+                    "chapter_name": "Towards Gender Equality"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 17,
+                    "chapter_name": "Religion And Society In Early Times"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 18,
+                    "chapter_name": "Devotion And Love Towards God"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 19,
+                    "chapter_name": "Language, Writing And Great Books"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 20,
+                    "chapter_name": "Sculptures And Buildings"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 21,
+                    "chapter_name": "Greenery In Telangana"
+                }
+            ]
+        },
+        "7": {
+            "Maths": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Integers"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Fractions & Decimals"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Data Handling"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Simple Equations"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Lines & Angles"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Triangle & Its Prop"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Congruency Of Triangles"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Comparing Quantities"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Rational Numbers"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Practical Geometry"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Perimeter & Area"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "Algebra"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Exponents & Power"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Symmetry"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Visualising Solid Shapes"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Integers"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Fractions & Decimals"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Simple Equations"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Lines & Angles"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Triangle & Its Prop"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Comparing Quantities"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Data Handling"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Congruency Of Triangles"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Construction Of Triangles"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Algebra"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "Exponents & Power"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Understanding Quadrilaterals"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Perimeter & Area"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Visualising Solid Shapes"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "Symmetry"
+                }
+            ],
+            "Science": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Nutrition In Plants"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Nutrition In Animals"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Fibre To Fabric"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Heat"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Acids, Bases And Salts"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Physical And Chemical Changes"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Weather Climate And Adoptation Of Animal To Climate"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Winds Storms & Cyclones"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Soil"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Respiration"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Transportation In Animal And Plants"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "Reproduction In Plants"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Motion & Time"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Electric Current And Its Effects"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Light"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 16,
+                    "chapter_name": "Water: A Precious Resourcs"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 17,
+                    "chapter_name": "Forest"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 18,
+                    "chapter_name": "Waste Water"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Components Of Food"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Acids, Bases And Salts"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Animal Fibre"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Motion & Time"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Heat - Measurement"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Weayher And Climate"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Electricity"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Air Winds & Cyclones"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Reflection Of Light"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Nutrition In Plants"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "Respiration In Organims"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Reproduction In Plants"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Seed Dispersal"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Water"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "Soil: Our Life"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 16,
+                    "chapter_name": "Forest: Our Life"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 17,
+                    "chapter_name": "Changes Around Us"
+                }
+            ],
+            "Social": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Environment"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Inside Our Earth"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Our Changing Earth"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Air"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Water"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Natural Vegetation And Wild Life"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Human Environment \u2013 Settlement, Transport, And Communication"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Human Environment Interactions \u2013 The Tropical And The Subtropical Region"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Life In The Deserts"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "On Equality"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Role Of The Government In Health"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "How The State Government Works"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Growing Up As Boys And Girls"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Women Change The World"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Understanding Media"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 16,
+                    "chapter_name": "Markets Around Us"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 17,
+                    "chapter_name": "A Shirt In The Market"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 18,
+                    "chapter_name": "Struggles For Equality"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 19,
+                    "chapter_name": "Tracing Changes Through A Thousand Years"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 20,
+                    "chapter_name": "New Kings And Kingdoms"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 21,
+                    "chapter_name": "The Delhi Sultans"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 22,
+                    "chapter_name": "The Mughal Empire"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 23,
+                    "chapter_name": "Rulers And Buildings"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 24,
+                    "chapter_name": "Towns, Traders, And Craftsperson"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 25,
+                    "chapter_name": "Tribes, Nomads And Settled Communities"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 26,
+                    "chapter_name": "Devotional Paths To The Divine"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 27,
+                    "chapter_name": "The Making Of Regional Cultures"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 28,
+                    "chapter_name": "Eighteenth-Century Political Formations"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Reading Maps Of Different Kinds"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Rain And Rivers"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Tanks And Ground Water"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Oceans And Fishing"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Europe"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Africa"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Handicrafts And Handlooms"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Industrial Revolution"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Production In A Factory - A Paper Mill"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Importance Of Transport System"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "New Kings And Kingdoms"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "The Kakatiyas - Emergence Of A Regional Kingdom"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "The Kings Of Vijayanagara"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Mughal Empire"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "Establishment Of The British Empire In India"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 16,
+                    "chapter_name": "Making Of Laws In The State Assembly"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 17,
+                    "chapter_name": "Implementation Of Laws In The District"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 18,
+                    "chapter_name": "Caste Discrimination And The Struggle For Equalities"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 19,
+                    "chapter_name": "Livelihood And Struggles Of Urban Workers"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 20,
+                    "chapter_name": "Folk - Religion"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 21,
+                    "chapter_name": "Devotional Paths To The Divine"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 22,
+                    "chapter_name": "Rulers And Buildings"
+                }
+            ]
+        },
+        "8": {
+            "Maths": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Rational Numbers"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Linear Eq With 1 Variable"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Understanding Quadrilaterals"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Practical Geometry"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Data Handling"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Squares N Sq Roots"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Cubes & Cuberoots"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Ratios And Proportions"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Algebra"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Vis Solid Shapes"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Perimeter & Area"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "Exponents & Power"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Direct & Indirect Prop"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Factorisation"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Intro To Graphs"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Rational Numbers"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Linear Eq With 1 Variable"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Construction Of Quad"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Exponents & Power"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Ratios And Proportions"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Sq Roots & Cube Roots"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Statistics"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Exploring Geometrical Shapes"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Surface Areas And Volumes"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Direct & Indirect Prop"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "Algebra"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Factorisation"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Visualising 3D In 2D"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Cubes And Cubiods"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "Playing With Numbers"
+                }
+            ],
+            "Science": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Crop Production And Management"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Micro Organisms: Friend & Foe"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Synthetic Fibers And Plastics"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Metals And Non Metals"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Coal And Petroleum"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Combustion & Flame"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Conservation Of Plants & Animals"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Cell Structure"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Reproduction In Anamils"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Adolescent & Puberty"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Force"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "Friction"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Sound"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Chemical Effects Of Electricity"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Natural Phenomemnon"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 16,
+                    "chapter_name": "Light"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 17,
+                    "chapter_name": "Stars And The Solar System"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 18,
+                    "chapter_name": "Pollution"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Force "
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Friction"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Synthetic Fibers And Plastics"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Metals And Non Metals"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Sound"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Reflection Of Light At Plane Surfaces"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Coal And Petroleum"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Combustion, Fuels And Flame"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Electric Conductivity Of Liquids"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Some Natural Phenomemnon"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "The Stars And The Solar System"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Graphs Of Motion"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "What Is Science"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Cell - The Basic Unit Of Life"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "The World Of Microorganisms Part 1&2"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 16,
+                    "chapter_name": "Reproduction In Anamils"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 17,
+                    "chapter_name": "The Age Of Adolescence"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 18,
+                    "chapter_name": "Biodiversity And Its Conservation"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 19,
+                    "chapter_name": "Different Ecosystems"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 20,
+                    "chapter_name": "Production Of Food In Plants"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 21,
+                    "chapter_name": "Production Of Food From Animals"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 22,
+                    "chapter_name": "Not For Breathing - Not For Drinking"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 23,
+                    "chapter_name": "Why Do We Fall Ill ?"
+                }
+            ],
+            "Social": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "How, When And Where"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "From Trade To Territory"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Ruling The Countryside"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Tribals, Dikus And The Vision Of A Golden Age"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "When People Rebel"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Weavers, Iron Smelters And Factory Owners"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Civilising The Native, Educating The Nation"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Women, Caste, And Reform"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "The Making Of The National Movement"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "India After Independence"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Resources"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "Land, Soil, Water, Natural Vegetation And Wildlife Resources"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Mineral And Power Resources"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Agriculture"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Industries"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 16,
+                    "chapter_name": "Human Resource"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 17,
+                    "chapter_name": "The Indian Constitution"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 18,
+                    "chapter_name": "Understanding Secularism"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 19,
+                    "chapter_name": "Why Do We Need A Parliament?"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 20,
+                    "chapter_name": "Understanding Laws"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 21,
+                    "chapter_name": "Judiciary"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 22,
+                    "chapter_name": "Understanding Our Criminal Justice System"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 23,
+                    "chapter_name": "Understanding Marginalisation"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 24,
+                    "chapter_name": "Confronting Marginalisation"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 25,
+                    "chapter_name": "Public Facilities"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 26,
+                    "chapter_name": "Law And Social Justice"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Reading And Analysis Of Maps"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Energy From The Sun"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Earth Movements And Seasons"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "The Polar Regions"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Forests: Using And Protecting Them"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Minerals And Mining"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Money And Banking"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Impact Of Technology On Livelihoods"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Public Health And The Government"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Landlords And Tenants Under The British And The Nizam"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "National Movement\u2013The Early Phase\u20131885-1919"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "National Movement\u2013The Last Phase 1919-1947"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Freedom Movement In Hyderabad State"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "The Indian Constitution"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "Parliament And Central Government"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 16,
+                    "chapter_name": "Law And Justice\u2013A Case Study"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 17,
+                    "chapter_name": "Abolition Of Zamindari System"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 18,
+                    "chapter_name": "Understanding Poverty"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 19,
+                    "chapter_name": "Rights Approach To Development"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 20,
+                    "chapter_name": "Social And Religious Reform Movements"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 21,
+                    "chapter_name": "Understanding Secularism"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 22,
+                    "chapter_name": "Performing Arts And Artistes In Modern Times"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 23,
+                    "chapter_name": "Film And Print Media"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 24,
+                    "chapter_name": "Sports: Nationalism And Commerce"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 25,
+                    "chapter_name": "Disaster Management"
+                }
+            ]
+        },
+        "9": {
+            "Maths": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Number Systems"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Polynomials"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Co-Ordinate Geometry"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Linear Eq With 1 Variable"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Euclid Geometry"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Lines And Angles"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Triangle & Its Prop"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Quadrilaterals"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Areas Of Parallelograms And Triangles"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Circles"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Constructions"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "Heron'S Formula"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Surface Areas And Volumes"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Statistics"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Probability"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Number Systems"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Polynomials"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Euclid Geometry"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Lines And Angles"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Co-Ordinate Geometry"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Linear Eq With 2 Variable"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Triangles"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Quadrilaterals"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Statistics"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Surface Areas And Volumes"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "Areas"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Circles"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Constructions"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Probability"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "Proofs In Mathematics"
+                }
+            ],
+            "Science": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Matter In Our Surroundings"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Is Matter Around Us Pure"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Atoms And Molecules"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Structure Of Atom"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Fundemntels Of Living Organisms"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Tissues"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Diversity In Living Organisms"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Motion"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Force"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Gravitation"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Work"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "Sound"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Health"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Natural Resources"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Improvement Of Food Resources"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Matter Around Us"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Motion"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Laws Of Motion"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Refraction Of Light At Plane Surfaces"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Gravitation"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Is Matter Pure ?"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Atoms, Molecules And Chemical Reaction"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Floating Bodies"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "What Is Inside An Atom ?"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Work And Energy"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "Heat"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Sound"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Cell Its Structure And Functions"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Plant Tissues"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "Animal Tissues"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 16,
+                    "chapter_name": "Plasma Membrane"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 17,
+                    "chapter_name": "Diversity In Living Organisms"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 18,
+                    "chapter_name": "Sense Organs"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 19,
+                    "chapter_name": "Animal Behaviour"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 20,
+                    "chapter_name": "Challenges In Improving Agricultural Products"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 21,
+                    "chapter_name": "Adaptations To Different Ecosystems"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 22,
+                    "chapter_name": "Soil Pollution"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 23,
+                    "chapter_name": "Bio - Geo - Chemical Cycles"
+                }
+            ],
+            "Social": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "India-Size And Location"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Physical Features Of India"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Drainage"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Climate"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Natural Vegetation And Wildlife"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Population"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "What Is Democracy? Why Democracy?"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Constitutional Design"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Electoral Politics"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Working Of Institutions"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Democratic Rights"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "The French Revolution"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Socialism In Europe And The Russian Revolution"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Nazism And The Rise Of Hitler"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Forest Society And Colonialism"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 16,
+                    "chapter_name": "Pastoralists In The Modern World"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 17,
+                    "chapter_name": "The Story Of Village Palampur"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 18,
+                    "chapter_name": "People As Resource"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 19,
+                    "chapter_name": "Poverty As A Challenge"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 20,
+                    "chapter_name": "Food Security In India"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Our Earth"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "The Natural Realms Of The Earth -Lithosphere"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Hydrosphere"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Atmosphere"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Biosphere"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Agriculture In India"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Industries In India"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Service Activities In India"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Credit In The Financial System"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Prices And Cost Of Living"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "The Government Budget And Taxation"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Democratic And Nationalist Revolutions"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Industrialisation And Social Change"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Social Protest Movements"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "Colonialism In Latin America, Asia And Africa"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 16,
+                    "chapter_name": "Impact Of Colonialism In India"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 17,
+                    "chapter_name": "Expansion Of Democracy"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 18,
+                    "chapter_name": "Democracy: An Evolving Idea"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 19,
+                    "chapter_name": "Human Rights And Fundamental Rights"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 20,
+                    "chapter_name": "Women Protection Acts"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 21,
+                    "chapter_name": "Disaster Management"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 22,
+                    "chapter_name": "Traffic Education"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 23,
+                    "chapter_name": "Environmental Education"
+                }
+            ]
+        },
+        "10": {
+            "Maths": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Real Numbers"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Polynomials"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Pair Of Linear Equations In Two Variables"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Quadratic Equations"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Arithmetic Progression"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Triangles"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Coordinate Geometry"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "Introduction To Trigonometry"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Some Applications Of Trigonometry"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Circles"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Constructions"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "Area Related To Circles"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Surface Areas And Volumes"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Statistics"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Probability"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Real Numbers"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Sets"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Polynomials"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Linear Eq With 2 Variable"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Quadratic Equations"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Progression"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Co-Ordinate Geometry"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Triangle & Its Prop"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Tangents & Secants"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Mensuration"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "Trigonometry"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Applications Of Trigonometry"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Probability"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Statistics"
+                }
+            ],
+            "Science": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Chemical Reactions And Equations"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Acids Bases And Salts"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Metals And Non-Metals"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Carbon And Its Compounds"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Periodic Classification Of Elements"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "Life Process"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Control & Co-Ordination"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "How Do Org Reproduce"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "Heredity & Evolution"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Light"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Human Eye"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "Electric Current"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Magnetic Effects Of Current"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Energy"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Environment"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 16,
+                    "chapter_name": "Sustainable Management"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "Reflection Of Light At Curved Surfaces"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Chemical Equation"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Acids Bases And Salts"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Refraction Of Light At Curved Surfaces"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Human Eye And Colourful World"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "Structure Of Atom"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Classification Of Elements- The Periodic Table"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Chemical Bonding"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Electric Currents"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Electromagnetism"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "Principles Of Metallurgy"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "Carbon And Its Compounds"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "Nutrition - Food Supplying System"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "Respiration - The Energy Producing System"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "Transportation - The Circulatory System"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 16,
+                    "chapter_name": "Excretion - The Wastage Disposing System"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 17,
+                    "chapter_name": "Co Ordination - The Linking System"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 18,
+                    "chapter_name": "Reproduction - The Generating System"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 19,
+                    "chapter_name": "Coordination In Life Processes"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 20,
+                    "chapter_name": "Heredity - From Parent To Progeny"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 21,
+                    "chapter_name": "Environment"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 22,
+                    "chapter_name": "Natural Resources"
+                }
+            ],
+            "Social": [
+                {
+                    "board": "CBSE",
+                    "chapter_number": 1,
+                    "chapter_name": "Development"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 2,
+                    "chapter_name": "Sectors Of The Indian Economy"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 3,
+                    "chapter_name": "Money And Credit"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 4,
+                    "chapter_name": "Globalisation And The Indian Economy"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 5,
+                    "chapter_name": "Consumer Rights"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 6,
+                    "chapter_name": "The Rise Of Nationalism In Europe"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 7,
+                    "chapter_name": "Nationalism In India"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 8,
+                    "chapter_name": "The Making Of A Global World"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 9,
+                    "chapter_name": "The Age Of Industrialisation"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 10,
+                    "chapter_name": "Print Culture And The Modern World"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 11,
+                    "chapter_name": "Power-Sharing"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 12,
+                    "chapter_name": "Federalism"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 13,
+                    "chapter_name": "Democracy And Diversity"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 14,
+                    "chapter_name": "Gender, Religion And Caste"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 15,
+                    "chapter_name": "Popular Struggles And Movements"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 16,
+                    "chapter_name": "Political Parties"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 17,
+                    "chapter_name": "Outcomes Of Democracy"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 18,
+                    "chapter_name": "Challenges To Democracy"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 19,
+                    "chapter_name": "Resource And Development"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 20,
+                    "chapter_name": "Forest And Wildlife Resources"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 21,
+                    "chapter_name": "Water Resources"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 22,
+                    "chapter_name": "Agriculture"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 23,
+                    "chapter_name": "Minerals And Energy Resources"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 24,
+                    "chapter_name": "Manufacturing Industries"
+                },
+                {
+                    "board": "CBSE",
+                    "chapter_number": 25,
+                    "chapter_name": "Lifelines Of National Economy"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 1,
+                    "chapter_name": "India: Relief Features"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 2,
+                    "chapter_name": "Ideas Of Development"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 3,
+                    "chapter_name": "Production And Employment "
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 4,
+                    "chapter_name": "Climate Of India"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 5,
+                    "chapter_name": "Indian Rivers And Water Resources"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 6,
+                    "chapter_name": "India - Population"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 7,
+                    "chapter_name": "Settlements - Migrations"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 8,
+                    "chapter_name": "Rampur : A Village Economy"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 9,
+                    "chapter_name": "Globalisation"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 10,
+                    "chapter_name": "Food Security"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 11,
+                    "chapter_name": "Sustainable Development With Equity"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 12,
+                    "chapter_name": "World Between The World Wars"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 13,
+                    "chapter_name": "National Liberation Movements In The Colonies"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 14,
+                    "chapter_name": "National Movement In India\u2013Partition & Independence"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 15,
+                    "chapter_name": "The Making Of Independent India\u2019S Constitution"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 16,
+                    "chapter_name": "Election Process In India"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 17,
+                    "chapter_name": "Independent India (The First 30 Years - 1947-77)"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 18,
+                    "chapter_name": "Emerging Political Trends 1977 To 2000"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 19,
+                    "chapter_name": "Post - War World And India"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 20,
+                    "chapter_name": "Social Movements In Our Times"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 21,
+                    "chapter_name": "The Movement For The Formation Of Telangana State"
+                },
+                {
+                    "board": "TS",
+                    "chapter_number": 22,
+                    "chapter_name": "Environmental Education"
+                }
+            ]
+        }
+    }
+}

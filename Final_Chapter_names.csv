@@ -1,0 +1,712 @@
+Board,Class,Subject ,Chapter Number,Chapter Title
+CBSE,4,Maths,1,Building With Bricks
+CBSE,4,Maths,2,Long And Short
+CBSE,4,Maths,3,Tick Tick Tick
+CBSE,4,Maths,4,A Trip To Bhopal
+CBSE,4,Maths,5,The Way The World Looks
+CBSE,4,Maths,6,Junk Seller
+CBSE,4,Maths,7,Jugs And Mugs
+CBSE,4,Maths,8,Carts And Wheels
+CBSE,4,Maths,9,Halves And Quarters
+CBSE,4,Maths,10,Play With Patterns
+CBSE,4,Maths,11,Tables And Shares
+CBSE,4,Maths,12,How Heavy? How Light?
+CBSE,4,Maths,13,Fields And Fences
+CBSE,4,Maths,14,Smart Charts
+CBSE,5,Maths,1,The Fish Tale
+CBSE,5,Maths,2,Shapes And Angles
+CBSE,5,Maths,3,How Many Squares?
+CBSE,5,Maths,4,Parts And Wholes
+CBSE,5,Maths,5,Does It Look The Same?
+CBSE,5,Maths,6,"Be My Multiple, I’Ll Be Your Factor"
+CBSE,5,Maths,7,Can You See The Pattern?
+CBSE,5,Maths,8,Mapping Your Way
+CBSE,5,Maths,9,Boxes And Sketches
+CBSE,5,Maths,10,Tenths And Hundredths
+CBSE,5,Maths,11,Area And Its Boundary
+CBSE,5,Maths,12,Smart Charts
+CBSE,5,Maths,13,Ways To Multiply And Divide
+CBSE,5,Maths,14,How Big? How Heavy?
+CBSE,6,Maths,1,Knowing Our Numbers
+CBSE,6,Maths,2,Whole Numbers
+CBSE,6,Maths,3,Playing With Numbers
+CBSE,6,Maths,4,Basic Geometrical Idea
+CBSE,6,Maths,5,Understanding Elementary Shapes
+CBSE,6,Maths,6,Integers
+CBSE,6,Maths,7,Fractions
+CBSE,6,Maths,8,Decimals
+CBSE,6,Maths,9,Data Handling
+CBSE,6,Maths,10,Mensuration
+CBSE,6,Maths,11,Algebra
+CBSE,6,Maths,12,Ratios And Proportions
+CBSE,6,Maths,13,Symmetry
+CBSE,6,Maths,14,Practical Geometry
+CBSE,7,Maths,1,Integers
+CBSE,7,Maths,2,Fractions & Decimals
+CBSE,7,Maths,3,Data Handling
+CBSE,7,Maths,4,Simple Equations
+CBSE,7,Maths,5,Lines & Angles
+CBSE,7,Maths,6,Triangle & Its Prop
+CBSE,7,Maths,7,Congruency Of Triangles
+CBSE,7,Maths,8,Comparing Quantities
+CBSE,7,Maths,9,Rational Numbers
+CBSE,7,Maths,10,Practical Geometry
+CBSE,7,Maths,11,Perimeter & Area
+CBSE,7,Maths,12,Algebra
+CBSE,7,Maths,13,Exponents & Power
+CBSE,7,Maths,14,Symmetry
+CBSE,7,Maths,15,Visualising Solid Shapes
+CBSE,8,Maths,1,Rational Numbers
+CBSE,8,Maths,2,Linear Eq With 1 Variable
+CBSE,8,Maths,3,Understanding Quadrilaterals
+CBSE,8,Maths,4,Practical Geometry
+CBSE,8,Maths,5,Data Handling
+CBSE,8,Maths,6,Squares N Sq Roots
+CBSE,8,Maths,7,Cubes & Cuberoots
+CBSE,8,Maths,8,Ratios And Proportions
+CBSE,8,Maths,9,Algebra
+CBSE,8,Maths,10,Vis Solid Shapes
+CBSE,8,Maths,11,Perimeter & Area
+CBSE,8,Maths,12,Exponents & Power
+CBSE,8,Maths,13,Direct & Indirect Prop
+CBSE,8,Maths,14,Factorisation
+CBSE,8,Maths,15,Intro To Graphs
+CBSE,9,Maths,1,Number Systems
+CBSE,9,Maths,2,Polynomials
+CBSE,9,Maths,3,Co-Ordinate Geometry
+CBSE,9,Maths,4,Linear Eq With 1 Variable
+CBSE,9,Maths,5,Euclid Geometry
+CBSE,9,Maths,6,Lines And Angles
+CBSE,9,Maths,7,Triangle & Its Prop
+CBSE,9,Maths,8,Quadrilaterals
+CBSE,9,Maths,9,Areas Of Parallelograms And Triangles
+CBSE,9,Maths,10,Circles
+CBSE,9,Maths,11,Constructions
+CBSE,9,Maths,12,Heron'S Formula
+CBSE,9,Maths,13,Surface Areas And Volumes
+CBSE,9,Maths,14,Statistics
+CBSE,9,Maths,15,Probability
+CBSE,10,Maths,1,Real Numbers
+CBSE,10,Maths,2,Polynomials
+CBSE,10,Maths,3,Pair Of Linear Equations In Two Variables
+CBSE,10,Maths,4,Quadratic Equations
+CBSE,10,Maths,5,Arithmetic Progression
+CBSE,10,Maths,6,Triangles
+CBSE,10,Maths,7,Coordinate Geometry
+CBSE,10,Maths,8,Introduction To Trigonometry
+CBSE,10,Maths,9,Some Applications Of Trigonometry
+CBSE,10,Maths,10,Circles
+CBSE,10,Maths,11,Constructions
+CBSE,10,Maths,12,Area Related To Circles
+CBSE,10,Maths,13,Surface Areas And Volumes
+CBSE,10,Maths,14,Statistics
+CBSE,10,Maths,15,Probability
+CBSE,4,Science,1,Going To School
+CBSE,4,Science,2,Ear To Ear
+CBSE,4,Science,3,A Day With Nandu
+CBSE,4,Science,4,The Story Of Amrita
+CBSE,4,Science,5,Anita And The Honeybees
+CBSE,4,Science,6,Omana’S Journey
+CBSE,4,Science,7,From The Window
+CBSE,4,Science,8,Reaching Grand Mother’S House
+CBSE,4,Science,9,Changing Families
+CBSE,4,Science,10,Hu Tu Tu Hu Tu Tu
+CBSE,4,Science,11,Valley Of Flowers
+CBSE,4,Science,12,Changing Times
+CBSE,4,Science,13,A River’S Tale
+CBSE,4,Science,14,Basva’S Farm
+CBSE,4,Science,15,From Market To Home
+CBSE,4,Science,16,A Busy Month
+CBSE,4,Science,17,Nandita In Mumbai
+CBSE,4,Science,18,Too Much Water Too Little Water
+CBSE,4,Science,19,Abdul In The Garden
+CBSE,4,Science,20,Eating  Together
+CBSE,4,Science,21,Food And Fun
+CBSE,4,Science,22,A World In My Home
+CBSE,4,Science,23,Pochampalli
+CBSE,4,Science,24,Home And Abroad
+CBSE,4,Science,25,Spicy Riddles
+CBSE,4,Science,26,Defence Officer: Wahida
+CBSE,4,Science,27,Chuskit Goes To School
+CBSE,5,Science,1,Super Senses
+CBSE,5,Science,2,A Snake Charmer’S Story
+CBSE,5,Science,3,From Tasting To Digesting
+CBSE,5,Science,4,Mangoes Round The Year
+CBSE,5,Science,5,Seeds And Seed
+CBSE,5,Science,6,Every Drop Counts
+CBSE,5,Science,7,Experiments With Water
+CBSE,5,Science,8,A Treat For Mosquitoes
+CBSE,5,Science,9,Up You Go
+CBSE,5,Science,10,Wall Tell Stories
+CBSE,5,Science,11,Sunita In Space
+CBSE,5,Science,12,What If It Finishes....?
+CBSE,5,Science,13,A Shelter So High!
+CBSE,5,Science,14,When The Earth Shook!
+CBSE,5,Science,15,Blow Hot Blow Cold
+CBSE,5,Science,16,Who Will Do The Work?
+CBSE,5,Science,17,Across The Wall
+CBSE,5,Science,18,No Place For Us
+CBSE,5,Science,19,A Seed Tells A Farmer’S Story
+CBSE,5,Science,20,Whose Forests?
+CBSE,5,Science,21,"Like Father,
+Like Daughter"
+CBSE,5,Science,22,On The Move Again
+CBSE,6,Science,1,Food : Where Does It Come From?
+CBSE,6,Science,2,Components Of Food
+CBSE,6,Science,3,Fibre To Fabric
+CBSE,6,Science,4,Sorting Materials To Groups
+CBSE,6,Science,5,Separation Of Substances
+CBSE,6,Science,6,Changes Around Us
+CBSE,6,Science,7,Getting To Know Plants
+CBSE,6,Science,8,Body Movements
+CBSE,6,Science,9,The Living Organisms Characteristics And Habits
+CBSE,6,Science,10,Motion And Measurement Of Distances
+CBSE,6,Science,11,"Light,Shadows And Reflections"
+CBSE,6,Science,12,Electricity And Circuits
+CBSE,6,Science,13,Fun With Magnets
+CBSE,6,Science,14,Water
+CBSE,6,Science,15,Air Around Us
+CBSE,6,Science,16,"Garbage In, Garbage Out"
+CBSE,7,Science,1,Nutrition In Plants
+CBSE,7,Science,2,Nutrition In Animals
+CBSE,7,Science,3,Fibre To Fabric
+CBSE,7,Science,4,Heat
+CBSE,7,Science,5,"Acids, Bases And Salts"
+CBSE,7,Science,6,Physical And Chemical Changes
+CBSE,7,Science,7,Weather Climate And Adoptation Of Animal To Climate
+CBSE,7,Science,8,Winds Storms & Cyclones
+CBSE,7,Science,9,Soil
+CBSE,7,Science,10,Respiration
+CBSE,7,Science,11,Transportation In Animal And Plants
+CBSE,7,Science,12,Reproduction In Plants
+CBSE,7,Science,13,Motion & Time
+CBSE,7,Science,14,Electric Current And Its Effects
+CBSE,7,Science,15,Light
+CBSE,7,Science,16,Water: A Precious Resourcs
+CBSE,7,Science,17,Forest
+CBSE,7,Science,18,Waste Water
+CBSE,8,Science,1,Crop Production And Management
+CBSE,8,Science,2,Micro Organisms: Friend & Foe
+CBSE,8,Science,3,Synthetic Fibers And Plastics
+CBSE,8,Science,4,Metals And Non Metals
+CBSE,8,Science,5,Coal And Petroleum
+CBSE,8,Science,6,Combustion & Flame
+CBSE,8,Science,7,Conservation Of Plants & Animals
+CBSE,8,Science,8,Cell Structure
+CBSE,8,Science,9,Reproduction In Anamils
+CBSE,8,Science,10,Adolescent & Puberty
+CBSE,8,Science,11,Force
+CBSE,8,Science,12,Friction
+CBSE,8,Science,13,Sound
+CBSE,8,Science,14,Chemical Effects Of Electricity
+CBSE,8,Science,15,Natural Phenomemnon
+CBSE,8,Science,16,Light
+CBSE,8,Science,17,Stars And The Solar System
+CBSE,8,Science,18,Pollution
+CBSE,9,Science,1,Matter In Our Surroundings
+CBSE,9,Science,2,Is Matter Around Us Pure
+CBSE,9,Science,3,Atoms And Molecules
+CBSE,9,Science,4,Structure Of Atom
+CBSE,9,Science,5,Fundemntels Of Living Organisms
+CBSE,9,Science,6,Tissues
+CBSE,9,Science,7,Diversity In Living Organisms
+CBSE,9,Science,8,Motion
+CBSE,9,Science,9,Force
+CBSE,9,Science,10,Gravitation
+CBSE,9,Science,11,Work
+CBSE,9,Science,12,Sound
+CBSE,9,Science,13,Health
+CBSE,9,Science,14,Natural Resources
+CBSE,9,Science,15,Improvement Of Food Resources
+CBSE,10,Science,1,Chemical Reactions And Equations
+CBSE,10,Science,2,Acids Bases And Salts
+CBSE,10,Science,3,Metals And Non-Metals
+CBSE,10,Science,4,Carbon And Its Compounds
+CBSE,10,Science,5,Periodic Classification Of Elements
+CBSE,10,Science,6,Life Process
+CBSE,10,Science,7,Control & Co-Ordination
+CBSE,10,Science,8,How Do Org Reproduce
+CBSE,10,Science,9,Heredity & Evolution
+CBSE,10,Science,10,Light
+CBSE,10,Science,11,Human Eye
+CBSE,10,Science,12,Electric Current
+CBSE,10,Science,13,Magnetic Effects Of Current
+CBSE,10,Science,14,Energy
+CBSE,10,Science,15,Environment
+CBSE,10,Science,16,Sustainable Management
+CBSE,6,Social,1,The Earth In The Solar System
+CBSE,6,Social,2,Globe Latitudes And Longitudes
+CBSE,6,Social,3,Motions Of The Earth
+CBSE,6,Social,4,Maps
+CBSE,6,Social,5,Major Domains Of The Earth
+CBSE,6,Social,6,Major Landforms Of The Earth
+CBSE,6,Social,7,Our Country India
+CBSE,6,Social,8,India Climate Vegetation And Wildlife
+CBSE,6,Social,9,"What, Where, How And When?"
+CBSE,6,Social,10,From Gathering To Growing Food
+CBSE,6,Social,11,In The Earliest Cities
+CBSE,6,Social,12,What Books And Burials Tell Us
+CBSE,6,Social,13,"Kingdoms, Kings And An Early Republic"
+CBSE,6,Social,14,New Questions And Ideas
+CBSE,6,Social,15,"Ashoka, The Emperor Who Gave Up War"
+CBSE,6,Social,16,"Vital Villages, Thriving Towns"
+CBSE,6,Social,17,"Traders, Kings And Pilgrims"
+CBSE,6,Social,18,New Empires And Kingdoms
+CBSE,6,Social,19,"Buildings, Paintings, And Books"
+CBSE,6,Social,20,Understanding Diversity
+CBSE,6,Social,21,Diversity And Discrimination
+CBSE,6,Social,22,What Is Government
+CBSE,6,Social,23,Key Elements Of A Democratic Government
+CBSE,6,Social,24,Panchayati Raj
+CBSE,6,Social,25,Rural Administration
+CBSE,6,Social,26,Urban Administration
+CBSE,6,Social,27,Rural Livelihoods
+CBSE,6,Social,28,Urban Livelihoods
+CBSE,7,Social,1,Environment
+CBSE,7,Social,2,Inside Our Earth
+CBSE,7,Social,3,Our Changing Earth
+CBSE,7,Social,4,Air
+CBSE,7,Social,5,Water
+CBSE,7,Social,6,Natural Vegetation And Wild Life
+CBSE,7,Social,7,"Human Environment – Settlement, Transport, And Communication"
+CBSE,7,Social,8,Human Environment Interactions – The Tropical And The Subtropical Region
+CBSE,7,Social,9,Life In The Deserts
+CBSE,7,Social,10,On Equality
+CBSE,7,Social,11,Role Of The Government In Health
+CBSE,7,Social,12,How The State Government Works
+CBSE,7,Social,13,Growing Up As Boys And Girls
+CBSE,7,Social,14,Women Change The World
+CBSE,7,Social,15,Understanding Media
+CBSE,7,Social,16,Markets Around Us
+CBSE,7,Social,17,A Shirt In The Market
+CBSE,7,Social,18,Struggles For Equality
+CBSE,7,Social,19,Tracing Changes Through A Thousand Years
+CBSE,7,Social,20,New Kings And Kingdoms
+CBSE,7,Social,21,The Delhi Sultans
+CBSE,7,Social,22,The Mughal Empire
+CBSE,7,Social,23,Rulers And Buildings
+CBSE,7,Social,24,"Towns, Traders, And Craftsperson"
+CBSE,7,Social,25,"Tribes, Nomads And Settled Communities"
+CBSE,7,Social,26,Devotional Paths To The Divine
+CBSE,7,Social,27,The Making Of Regional Cultures
+CBSE,7,Social,28,Eighteenth-Century Political Formations
+CBSE,8,Social,1,"How, When And Where"
+CBSE,8,Social,2,From Trade To Territory
+CBSE,8,Social,3,Ruling The Countryside
+CBSE,8,Social,4,"Tribals, Dikus And The Vision Of A Golden Age"
+CBSE,8,Social,5,When People Rebel
+CBSE,8,Social,6,"Weavers, Iron Smelters And Factory Owners"
+CBSE,8,Social,7,"Civilising The Native, Educating The Nation"
+CBSE,8,Social,8,"Women, Caste, And Reform"
+CBSE,8,Social,9,The Making Of The National Movement
+CBSE,8,Social,10,India After Independence
+CBSE,8,Social,11,Resources
+CBSE,8,Social,12,"Land, Soil, Water, Natural Vegetation And Wildlife Resources"
+CBSE,8,Social,13,Mineral And Power Resources
+CBSE,8,Social,14,Agriculture
+CBSE,8,Social,15,Industries
+CBSE,8,Social,16,Human Resource
+CBSE,8,Social,17,The Indian Constitution
+CBSE,8,Social,18,Understanding Secularism
+CBSE,8,Social,19,Why Do We Need A Parliament?
+CBSE,8,Social,20,Understanding Laws
+CBSE,8,Social,21,Judiciary
+CBSE,8,Social,22,Understanding Our Criminal Justice System
+CBSE,8,Social,23,Understanding Marginalisation
+CBSE,8,Social,24,Confronting Marginalisation
+CBSE,8,Social,25,Public Facilities
+CBSE,8,Social,26,Law And Social Justice
+CBSE,9,Social,1,India-Size And Location
+CBSE,9,Social,2,Physical Features Of India
+CBSE,9,Social,3,Drainage
+CBSE,9,Social,4,Climate
+CBSE,9,Social,5,Natural Vegetation And Wildlife
+CBSE,9,Social,6,Population
+CBSE,9,Social,7,What Is Democracy? Why Democracy?
+CBSE,9,Social,8,Constitutional Design
+CBSE,9,Social,9,Electoral Politics
+CBSE,9,Social,10,Working Of Institutions
+CBSE,9,Social,11,Democratic Rights
+CBSE,9,Social,12,The French Revolution
+CBSE,9,Social,13,Socialism In Europe And The Russian Revolution
+CBSE,9,Social,14,Nazism And The Rise Of Hitler
+CBSE,9,Social,15,Forest Society And Colonialism
+CBSE,9,Social,16,Pastoralists In The Modern World
+CBSE,9,Social,17,The Story Of Village Palampur
+CBSE,9,Social,18,People As Resource
+CBSE,9,Social,19,Poverty As A Challenge
+CBSE,9,Social,20,Food Security In India
+CBSE,10,Social,1,Development
+CBSE,10,Social,2,Sectors Of The Indian Economy
+CBSE,10,Social,3,Money And Credit
+CBSE,10,Social,4,Globalisation And The Indian Economy
+CBSE,10,Social,5,Consumer Rights
+CBSE,10,Social,6,The Rise Of Nationalism In Europe
+CBSE,10,Social,7,Nationalism In India
+CBSE,10,Social,8,The Making Of A Global World
+CBSE,10,Social,9,The Age Of Industrialisation
+CBSE,10,Social,10,Print Culture And The Modern World
+CBSE,10,Social,11,Power-Sharing
+CBSE,10,Social,12,Federalism
+CBSE,10,Social,13,Democracy And Diversity
+CBSE,10,Social,14,"Gender, Religion And Caste"
+CBSE,10,Social,15,Popular Struggles And Movements
+CBSE,10,Social,16,Political Parties
+CBSE,10,Social,17,Outcomes Of Democracy
+CBSE,10,Social,18,Challenges To Democracy
+CBSE,10,Social,19,Resource And Development
+CBSE,10,Social,20,Forest And Wildlife Resources
+CBSE,10,Social,21,Water Resources
+CBSE,10,Social,22,Agriculture
+CBSE,10,Social,23,Minerals And Energy Resources
+CBSE,10,Social,24,Manufacturing Industries
+CBSE,10,Social,25,Lifelines Of National Economy
+TS,4,Maths,1,Many Objects - Different Shapes
+TS,4,Maths,2,Different Views Different Sides
+TS,4,Maths,3,Some More Shapes
+TS,4,Maths,4,Knowing Numbers
+TS,4,Maths,5,How Much More How Much Less
+TS,4,Maths,6,How Many Times
+TS,4,Maths,7,Equal Shares And Equal Groups
+TS,4,Maths,8,How Long Is This?
+TS,4,Maths,9,How Much Does It Weigh
+TS,4,Maths,10,How Much Do These Bottles Hold
+TS,4,Maths,11,Tick-Tock Goes The Clock
+TS,4,Maths,12,Divind Into Equal Parts
+TS,4,Maths,13,Smart Tables
+TS,4,Maths,14,Borders And Boundaries
+TS,4,Maths,15,Halves That Look Like
+TS,4,Maths,16,Patterns
+TS,4,Maths,17,Maths Around Us
+TS,5,Maths,1,Bigger Numbers
+TS,5,Maths,2,Multiply And Divide
+TS,5,Maths,3,Smart Charts
+TS,5,Maths,4,Smaller Lengths - Bigger Lengths
+TS,5,Maths,5,Spaces And Boundaries
+TS,5,Maths,6,Space And Boudaries-2
+TS,5,Maths,7,Angles In Our Surroundings
+TS,5,Maths,8,Playing With Shapes
+TS,5,Maths,9,Routes And Maps
+TS,5,Maths,10,How Much Does It Weigh
+TS,5,Maths,11,Many More Litres
+TS,5,Maths,12,Time
+TS,5,Maths,13,Fractions
+TS,5,Maths,14,Factors And Multiples
+TS,5,Maths,15,Symmetry
+TS,5,Maths,16,Patterns
+TS,5,Maths,17,Trip To The Golkonda Fort 
+TS,6,Maths,1,Knowing Our Numbers
+TS,6,Maths,2,Whole Numbers
+TS,6,Maths,3,Playing With Numbers
+TS,6,Maths,4,Basic Geometrical Idea
+TS,6,Maths,5,Understanding Elementary Shapes
+TS,6,Maths,6,Integers
+TS,6,Maths,7,Fractions
+TS,6,Maths,8,Data Handling
+TS,6,Maths,9,Algebra
+TS,6,Maths,10,Mensuration
+TS,6,Maths,11,Ratios And Proportions
+TS,6,Maths,12,Symmetry
+TS,6,Maths,13,Practical Geometry
+TS,6,Maths,14,3D & 2D Shapes
+TS,7,Maths,1,Integers
+TS,7,Maths,2,Fractions & Decimals
+TS,7,Maths,3,Simple Equations
+TS,7,Maths,4,Lines & Angles
+TS,7,Maths,5,Triangle & Its Prop
+TS,7,Maths,6,Comparing Quantities
+TS,7,Maths,7,Data Handling
+TS,7,Maths,8,Congruency Of Triangles
+TS,7,Maths,9,Construction Of Triangles
+TS,7,Maths,10,Algebra
+TS,7,Maths,11,Exponents & Power
+TS,7,Maths,12,Understanding Quadrilaterals
+TS,7,Maths,13,Perimeter & Area
+TS,7,Maths,14,Visualising Solid Shapes
+TS,7,Maths,15,Symmetry
+TS,8,Maths,1,Rational Numbers
+TS,8,Maths,2,Linear Eq With 1 Variable
+TS,8,Maths,3,Construction Of Quad
+TS,8,Maths,4,Exponents & Power
+TS,8,Maths,5,Ratios And Proportions
+TS,8,Maths,6,Sq Roots & Cube Roots
+TS,8,Maths,7,Statistics
+TS,8,Maths,8,Exploring Geometrical Shapes
+TS,8,Maths,9,Surface Areas And Volumes
+TS,8,Maths,10,Direct & Indirect Prop
+TS,8,Maths,11,Algebra
+TS,8,Maths,12,Factorisation
+TS,8,Maths,13,Visualising 3D In 2D
+TS,8,Maths,14,Cubes And Cubiods
+TS,8,Maths,15,Playing With Numbers
+TS,9,Maths,1,Number Systems
+TS,9,Maths,2,Polynomials
+TS,9,Maths,3,Euclid Geometry
+TS,9,Maths,4,Lines And Angles
+TS,9,Maths,5,Co-Ordinate Geometry
+TS,9,Maths,6,Linear Eq With 2 Variable
+TS,9,Maths,7,Triangles
+TS,9,Maths,8,Quadrilaterals
+TS,9,Maths,9,Statistics
+TS,9,Maths,10,Surface Areas And Volumes
+TS,9,Maths,11,Areas
+TS,9,Maths,12,Circles
+TS,9,Maths,13,Constructions
+TS,9,Maths,14,Probability
+TS,9,Maths,15,Proofs In Mathematics
+TS,10,Maths,1,Real Numbers
+TS,10,Maths,2,Sets
+TS,10,Maths,3,Polynomials
+TS,10,Maths,4,Linear Eq With 2 Variable
+TS,10,Maths,5,Quadratic Equations
+TS,10,Maths,6,Progression
+TS,10,Maths,7,Co-Ordinate Geometry
+TS,10,Maths,8,Triangle & Its Prop
+TS,10,Maths,9,Tangents & Secants
+TS,10,Maths,10,Mensuration
+TS,10,Maths,11,Trigonometry
+TS,10,Maths,12,Applications Of Trigonometry
+TS,10,Maths,13,Probability
+TS,10,Maths,14,Statistics
+TS,4,Science,1,Changing Families
+TS,4,Science,2,Different Kind Of Games
+TS,4,Science,3,Various Types Of Animals
+TS,4,Science,4,The Lifestyles Of Animals -Bio Diversity
+TS,4,Science,5,Plants Around Us
+TS,4,Science,6,Find The Way/Directions
+TS,4,Science,7,Public Institutions
+TS,4,Science,8,Houses-Construction Sanitation
+TS,4,Science,9,Our Village-Our Tanks
+TS,4,Science,10,Our Food - Our Health
+TS,4,Science,11,From Village To Delhi
+TS,4,Science,12,Indian History And Culture
+TS,5,Science,1,Animals: The Base Of Life
+TS,5,Science,2,Agriculture-Crops
+TS,5,Science,3,Lets Plant Tress
+TS,5,Science,4,Food We Eat
+TS,5,Science,5,Our Body Parts- Sense Organs
+TS,5,Science,6,Our Body- Its Internal Organs
+TS,5,Science,7,Forests-Tribals
+TS,5,Science,8,Rivers- Means Of Livelihood
+TS,5,Science,9,Atmosphere-Wind
+TS,5,Science,10,The Sun And The Planets
+TS,5,Science,11,Safety And First Aid
+TS,5,Science,12,Historical Sites-Wanaparti Fort
+TS,5,Science,13,Energy
+TS,5,Science,14,Our Country-World
+TS,5,Science,15,Our Consitution
+TS,5,Science,16,Child Rights
+TS,6,Science,1,Our Food
+TS,6,Science,2,Playing With Magnets
+TS,6,Science,3,Rain: Where Does It Come From?
+TS,6,Science,4,What Do Animals Eat?
+TS,6,Science,5,Materials And Things
+TS,6,Science,6,Habitat
+TS,6,Science,7,Separation Of Substances
+TS,6,Science,8,Fibre To Fabric
+TS,6,Science,9,Plants:Parts And Functions
+TS,6,Science,10,Changes Around Us
+TS,6,Science,11,Water In Our Life
+TS,6,Science,12,Simple Electric Circuits
+TS,6,Science,13,Learning  How To Measure
+TS,6,Science,14,Movements In Animals
+TS,6,Science,15,"Light, Shadows And Images"
+TS,6,Science,16,Living And Non Living
+TS,7,Science,1,Components Of Food
+TS,7,Science,2,"Acids, Bases And Salts"
+TS,7,Science,3,Animal Fibre
+TS,7,Science,4,Motion & Time
+TS,7,Science,5,Heat - Measurement
+TS,7,Science,6,Weayher And Climate
+TS,7,Science,7,Electricity
+TS,7,Science,8,Air Winds & Cyclones
+TS,7,Science,9,Reflection Of Light
+TS,7,Science,10,Nutrition In Plants
+TS,7,Science,11,Respiration In Organims
+TS,7,Science,12,Reproduction In Plants
+TS,7,Science,13,Seed Dispersal
+TS,7,Science,14,Water
+TS,7,Science,15,Soil: Our Life
+TS,7,Science,16,Forest: Our Life
+TS,7,Science,17,Changes Around Us
+TS,8,Science,1,Force 
+TS,8,Science,2,Friction
+TS,8,Science,3,Synthetic Fibers And Plastics
+TS,8,Science,4,Metals And Non Metals
+TS,8,Science,5,Sound
+TS,8,Science,6,Reflection Of Light At Plane Surfaces
+TS,8,Science,7,Coal And Petroleum
+TS,8,Science,8,"Combustion, Fuels And Flame"
+TS,8,Science,9,Electric Conductivity Of Liquids
+TS,8,Science,10,Some Natural Phenomemnon
+TS,8,Science,11,The Stars And The Solar System
+TS,8,Science,12,Graphs Of Motion
+TS,8,Science,13,What Is Science
+TS,8,Science,14,Cell - The Basic Unit Of Life
+TS,8,Science,15,The World Of Microorganisms Part 1&2
+TS,8,Science,16,Reproduction In Anamils
+TS,8,Science,17,The Age Of Adolescence
+TS,8,Science,18,Biodiversity And Its Conservation
+TS,8,Science,19,Different Ecosystems
+TS,8,Science,20,Production Of Food In Plants
+TS,8,Science,21,Production Of Food From Animals
+TS,8,Science,22,Not For Breathing - Not For Drinking
+TS,8,Science,23,Why Do We Fall Ill ?
+TS,9,Science,1,Matter Around Us
+TS,9,Science,2,Motion
+TS,9,Science,3,Laws Of Motion
+TS,9,Science,4,Refraction Of Light At Plane Surfaces
+TS,9,Science,5,Gravitation
+TS,9,Science,6,Is Matter Pure ?
+TS,9,Science,7,"Atoms, Molecules And Chemical Reaction"
+TS,9,Science,8,Floating Bodies
+TS,9,Science,9,What Is Inside An Atom ?
+TS,9,Science,10,Work And Energy
+TS,9,Science,11,Heat
+TS,9,Science,12,Sound
+TS,9,Science,13,Cell Its Structure And Functions
+TS,9,Science,14,Plant Tissues
+TS,9,Science,15,Animal Tissues
+TS,9,Science,16,Plasma Membrane
+TS,9,Science,17,Diversity In Living Organisms
+TS,9,Science,18,Sense Organs
+TS,9,Science,19,Animal Behaviour
+TS,9,Science,20,Challenges In Improving Agricultural Products
+TS,9,Science,21,Adaptations To Different Ecosystems
+TS,9,Science,22,Soil Pollution
+TS,9,Science,23,Bio - Geo - Chemical Cycles
+TS,10,Science,1,Reflection Of Light At Curved Surfaces
+TS,10,Science,2,Chemical Equation
+TS,10,Science,3,Acids Bases And Salts
+TS,10,Science,4,Refraction Of Light At Curved Surfaces
+TS,10,Science,5,Human Eye And Colourful World
+TS,10,Science,6,Structure Of Atom
+TS,10,Science,7,Classification Of Elements- The Periodic Table
+TS,10,Science,8,Chemical Bonding
+TS,10,Science,9,Electric Currents
+TS,10,Science,10,Electromagnetism
+TS,10,Science,11,Principles Of Metallurgy
+TS,10,Science,12,Carbon And Its Compounds
+TS,10,Science,13,Nutrition - Food Supplying System
+TS,10,Science,14,Respiration - The Energy Producing System
+TS,10,Science,15,Transportation - The Circulatory System
+TS,10,Science,16,Excretion - The Wastage Disposing System
+TS,10,Science,17,Co Ordination - The Linking System
+TS,10,Science,18,Reproduction - The Generating System
+TS,10,Science,19,Coordination In Life Processes
+TS,10,Science,20,Heredity - From Parent To Progeny
+TS,10,Science,21,Environment
+TS,10,Science,22,Natural Resources
+TS,6,Social,1,Reading And Making Maps
+TS,6,Social,2,Globe – A Model Of The Earth
+TS,6,Social,3,Land Forms
+TS,6,Social,4,Dokur – A Village On The Plateau
+TS,6,Social,5,Penugolu – A Village On The Hills
+TS,6,Social,6,From Gathering Food To Growing Food - The Earliest People
+TS,6,Social,7,Agriculture In Our Times
+TS,6,Social,8,Trade In Agricultural Produce – Part-A
+TS,6,Social,9,Community Decision Making In A Tribe
+TS,6,Social,10,Emergence Of Kingdoms And Republics
+TS,6,Social,11,First Empires 
+TS,6,Social,12,Democratic Government
+TS,6,Social,13,Village Panchayats
+TS,6,Social,14,Local Self – Government In Urban Areas
+TS,6,Social,15,Diversity In Our Society
+TS,6,Social,16,Towards Gender Equality
+TS,6,Social,17,Religion And Society In Early Times
+TS,6,Social,18,Devotion And Love Towards God
+TS,6,Social,19,"Language, Writing And Great Books"
+TS,6,Social,20,Sculptures And Buildings
+TS,6,Social,21,Greenery In Telangana
+TS,7,Social,1,Reading Maps Of Different Kinds
+TS,7,Social,2,Rain And Rivers
+TS,7,Social,3,Tanks And Ground Water
+TS,7,Social,4,Oceans And Fishing
+TS,7,Social,5,Europe
+TS,7,Social,6,Africa
+TS,7,Social,7,Handicrafts And Handlooms
+TS,7,Social,8,Industrial Revolution
+TS,7,Social,9,Production In A Factory - A Paper Mill
+TS,7,Social,10,Importance Of Transport System
+TS,7,Social,11,New Kings And Kingdoms
+TS,7,Social,12,The Kakatiyas - Emergence Of A Regional Kingdom
+TS,7,Social,13,The Kings Of Vijayanagara
+TS,7,Social,14,Mughal Empire
+TS,7,Social,15,Establishment Of The British Empire In India
+TS,7,Social,16,Making Of Laws In The State Assembly
+TS,7,Social,17,Implementation Of Laws In The District
+TS,7,Social,18,Caste Discrimination And The Struggle For Equalities
+TS,7,Social,19,Livelihood And Struggles Of Urban Workers
+TS,7,Social,20,Folk - Religion
+TS,7,Social,21,Devotional Paths To The Divine
+TS,7,Social,22,Rulers And Buildings
+TS,8,Social,1,Reading And Analysis Of Maps
+TS,8,Social,2,Energy From The Sun
+TS,8,Social,3,Earth Movements And Seasons
+TS,8,Social,4,The Polar Regions
+TS,8,Social,5,Forests: Using And Protecting Them
+TS,8,Social,6,Minerals And Mining
+TS,8,Social,7,Money And Banking
+TS,8,Social,8,Impact Of Technology On Livelihoods
+TS,8,Social,9,Public Health And The Government
+TS,8,Social,10,Landlords And Tenants Under The British And The Nizam
+TS,8,Social,11,National Movement–The Early Phase–1885-1919
+TS,8,Social,12,National Movement–The Last Phase 1919-1947
+TS,8,Social,13,Freedom Movement In Hyderabad State
+TS,8,Social,14,The Indian Constitution
+TS,8,Social,15,Parliament And Central Government
+TS,8,Social,16,Law And Justice–A Case Study
+TS,8,Social,17,Abolition Of Zamindari System
+TS,8,Social,18,Understanding Poverty
+TS,8,Social,19,Rights Approach To Development
+TS,8,Social,20,Social And Religious Reform Movements
+TS,8,Social,21,Understanding Secularism
+TS,8,Social,22,Performing Arts And Artistes In Modern Times
+TS,8,Social,23,Film And Print Media
+TS,8,Social,24,Sports: Nationalism And Commerce
+TS,8,Social,25,Disaster Management
+TS,9,Social,1,Our Earth
+TS,9,Social,2,The Natural Realms Of The Earth -Lithosphere
+TS,9,Social,3,Hydrosphere
+TS,9,Social,4,Atmosphere
+TS,9,Social,5,Biosphere
+TS,9,Social,6,Agriculture In India
+TS,9,Social,7,Industries In India
+TS,9,Social,8,Service Activities In India
+TS,9,Social,9,Credit In The Financial System
+TS,9,Social,10,Prices And Cost Of Living
+TS,9,Social,11,The Government Budget And Taxation
+TS,9,Social,12,Democratic And Nationalist Revolutions
+TS,9,Social,13,Industrialisation And Social Change
+TS,9,Social,14,Social Protest Movements
+TS,9,Social,15,"Colonialism In Latin America, Asia And Africa"
+TS,9,Social,16,Impact Of Colonialism In India
+TS,9,Social,17,Expansion Of Democracy
+TS,9,Social,18,Democracy: An Evolving Idea
+TS,9,Social,19,Human Rights And Fundamental Rights
+TS,9,Social,20,Women Protection Acts
+TS,9,Social,21,Disaster Management
+TS,9,Social,22,Traffic Education
+TS,9,Social,23,Environmental Education
+TS,10,Social,1,India: Relief Features
+TS,10,Social,2,Ideas Of Development
+TS,10,Social,3,Production And Employment 
+TS,10,Social,4,Climate Of India
+TS,10,Social,5,Indian Rivers And Water Resources
+TS,10,Social,6,India - Population
+TS,10,Social,7,Settlements - Migrations
+TS,10,Social,8,Rampur : A Village Economy
+TS,10,Social,9,Globalisation
+TS,10,Social,10,Food Security
+TS,10,Social,11,Sustainable Development With Equity
+TS,10,Social,12,World Between The World Wars
+TS,10,Social,13,National Liberation Movements In The Colonies
+TS,10,Social,14,National Movement In India–Partition & Independence
+TS,10,Social,15,The Making Of Independent India’S Constitution
+TS,10,Social,16,Election Process In India
+TS,10,Social,17,Independent India (The First 30 Years - 1947-77)
+TS,10,Social,18,Emerging Political Trends 1977 To 2000
+TS,10,Social,19,Post - War World And India
+TS,10,Social,20,Social Movements In Our Times
+TS,10,Social,21,The Movement For The Formation Of Telangana State
+TS,10,Social,22,Environmental Education

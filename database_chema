@@ -1,0 +1,122 @@
+{
+  "data_segment": {
+    "S": "chapters"
+  },
+  "chapters": {
+    "M": {
+      "4": {
+        "M": {
+          "Maths": {
+            "L": []
+          },
+          "Science": {
+            "L": []
+          }
+        }
+      },
+      "5": {
+        "M": {
+          "Maths": {
+            "L": []
+          },
+          "Science": {
+            "L": []
+          }
+        }
+      },
+      "6": {
+        "M": {
+          "Maths": {
+            "L": []
+          },
+          "Science": {
+            "L": []
+          },
+          "Social": {
+            "L": []
+          }
+        }
+      },
+      "7": {
+        "M": {
+          "Maths": {
+            "L": []
+          },
+          "Science": {
+            "L": []
+          },
+          "Social": {
+            "L": []
+          }
+        }
+      },
+      "8": {
+        "M": {
+          "Maths": {
+            "L": []
+          },
+          "Science": {
+            "L": []
+          },
+          "Social": {
+            "L": []
+          }
+        }
+      },
+      "9": {
+        "M": {
+          "Maths": {
+            "L": []
+          },
+          "Science": {
+            "L": []
+          },
+          "Social": {
+            "L": []
+          }
+        }
+      },
+      "10": {
+        "M": {
+          "Maths": {
+            "L": []
+          },
+          "Science": {
+            "L": []
+          },
+          "Social": {
+            "L": []
+          }
+        }
+      }
+    }
+  }
+}
+# # Update DynamoDB with JSON data
+# for class_number, subjects_data in json_data['chapters'].items():
+#     class_key = str(class_number)
+
+#     # Prepare item for PutItem operation
+#     put_item_request = {
+#         'Item': {
+#             'data_segment': 'chapters',
+#             class_key: {
+                
+#             }
+#         },
+#         'ConditionExpression': 'attribute_not_exists(data_segment)'  # Optional condition
+#     }
+
+#     for subject, chapters in subjects_data.items():
+#         subject_key = subject
+
+#         # Add chapters data for each subject
+#         put_item_request['Item'][class_key][subject_key] = chapters
+
+#     # Perform PutItem operation
+#     try:
+#         response = table.put_item(**put_item_request)
+#         print(f"PutItem succeeded for Class {class_number}: {response}")
+#     except Exception as e:
+#         print(f"Error putting item for Class {class_number}: {e}")
+
